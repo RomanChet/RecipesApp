@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SearchForRecipesApp</string>
+    <string name="sort_to_upload_date">Sort to upload date</string>
+    <string name="sort_to_name">Sort to name</string>
+    <string name="hello_text">Hey! These are your recipes. Lets cook quickly!</string>
+    <string name="the_complexity_of_the_recipe">The complexity of the recipe:</string>
+    <string name="description_recipe">Description Recipe</string>
+    <string name="instructions_recipe">Instructions Recipe</string>
+    <string name="name_recipe">Name Recipe</string>
+</resources>
