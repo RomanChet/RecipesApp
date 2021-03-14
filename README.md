@@ -8,5 +8,3 @@
 - __2. Browse through the list of recipes, choose the right one and COOK with pleasure!__
 
 Thanks!
-
-P.S. Coming soon to PlayMarket!
