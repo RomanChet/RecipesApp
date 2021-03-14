@@ -6,9 +6,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/hot_cooking_icon_134855"
         android:label="Your Recipes"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/hot_cooking_icon_134855"
         android:supportsRtl="true"
         android:theme="@style/Theme.SearchForRecipesApp">
         <activity android:name=".MainDetailsActivity" />
